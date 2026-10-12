@@ -14,3 +14,4 @@
 - Had me sign in to the GitHub CLI (`gh auth login`, browser login as TrentenMUW) → it created the public repo `TrentenMUW.github.io`, pushed, and confirmed Pages was already enabled. Site went live at https://trentenmuw.github.io within about a minute.
 - Checked the live page: all 5 cards render, no console errors, no horizontal scroll at phone width, and light and dark mode both look right.
 - I chose to deploy with the placeholder text (tagline, About, card 1 reflection, ideas for cards 2–5) for now and fill it in later.
+- Gave Claude my tagline, About text, card 1 reflection, and one rough paragraph of ideas per card for Artifacts 2–5 → it tidied the wording (typos, splitting each paragraph into 2–3 idea bullets) and gave cards 2–5 working titles from my notes. No `TODO(Trenten)` placeholders remain.
