@@ -16,7 +16,7 @@ const ARTIFACTS = [
     status: "complete",
     link: "https://trentenmuw.github.io/continuum/",
     description: "A lifelong timeline that replaces the calendar grid with one continuous line you can zoom from minutes to decades, with category lanes, repeating events, milestones, and .ics/.csv import. It's built with React and TypeScript and keeps all of its data in the browser.",
-    reflection: "TODO(Trenten): a few sentences on how it went and what you learned.",
+    reflection: "The biggest lesson for me in this project was the value of front loading my design specifications. It was very obvious to me as soon as I started, and I even remember learning in previous classes that starting work before having a completely finished specifications document is bad practice, but I still needed the reminder. I also feel that I got almost too much help from AI in design choices, and would actually like to make a point of sitting down to face those boring decisions myself, or else lose some part of myself to the automation.",
     ideas: []
   },
   { id: 3, title: "AI Capabilities News Feed", status: "planned", link: "", description: "", reflection: "",

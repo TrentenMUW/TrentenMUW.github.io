@@ -20,3 +20,4 @@
 - Asked Claude Code to update the Artifact 2 card now that Continuum is finished, leaving placeholder text for my reflection → it edited only `artifacts.js` (card `id: 2`): title "Continuum", status "complete", link https://trentenmuw.github.io/continuum/, a drafted factual description, `ideas: []`, and `reflection: "TODO(Trenten): …"`.
 - My earlier working title ("Strictly speaking, am I still on track?") and its three idea bullets were replaced per the Continuum handoff; they remain in git history.
 - I chose to push it with the `TODO(Trenten)` reflection placeholder for now and fill it in later.
+- Gave Claude my Artifact 2 reflection and asked for minimal changes → it entered it verbatim in card 2. No `TODO(Trenten)` placeholders remain.
