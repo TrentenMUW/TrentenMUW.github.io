@@ -10,12 +10,15 @@ const ARTIFACTS = [
     reflection: "This artifact was startlingly easy to complete! On one hand I'm guilty of starting late, and on the other I'm almost proud of how it turned out. I can't say proud exactly, because a computer did it for me, so my bar for what I expect from my time with LLMs is immediately raised again. I used Claude Code about a year ago and was surprised by how fast, and also how clunky and slow, it was. Now I'm blown away by how many of those bumps have been smoothed over. I look forward to using it all quarter!",
     ideas: []
   },
-  { id: 2, title: "Strictly speaking, am I still on track?", status: "planned", link: "", description: "", reflection: "",
-    ideas: [
-      "A single page that lays out my expected career timeline (how many opportunities to apply to, contributing to a meaningful multi-year project by a certain age, and so on) that I can check in on.",
-      "Something concrete and granular to hold myself to every day, even every hour: a daily calendar taken to its logical limits, from this moment doing a homework assignment all the way to a scheduled retirement date.",
-      "The title comes from lyrics in a song I like."
-    ] },
+  {
+    id: 2,
+    title: "Continuum",
+    status: "complete",
+    link: "https://trentenmuw.github.io/continuum/",
+    description: "A lifelong timeline that replaces the calendar grid with one continuous line you can zoom from minutes to decades, with category lanes, repeating events, milestones, and .ics/.csv import. It's built with React and TypeScript and keeps all of its data in the browser.",
+    reflection: "TODO(Trenten): a few sentences on how it went and what you learned.",
+    ideas: []
+  },
   { id: 3, title: "AI Capabilities News Feed", status: "planned", link: "", description: "", reflection: "",
     ideas: [
       "Since the last Monday of September I've been more surprised every day by the projects people are completing with AI.",

@@ -15,3 +15,8 @@
 - Checked the live page: all 5 cards render, no console errors, no horizontal scroll at phone width, and light and dark mode both look right.
 - I chose to deploy with the placeholder text (tagline, About, card 1 reflection, ideas for cards 2–5) for now and fill it in later.
 - Gave Claude my tagline, About text, card 1 reflection, and one rough paragraph of ideas per card for Artifacts 2–5 → it tidied the wording (typos, splitting each paragraph into 2–3 idea bullets) and gave cards 2–5 working titles from my notes. No `TODO(Trenten)` placeholders remain.
+
+## Oct 19, 2026: Artifact 2 card (Claude Code, from the Continuum session)
+- Asked Claude Code to update the Artifact 2 card now that Continuum is finished, leaving placeholder text for my reflection → it edited only `artifacts.js` (card `id: 2`): title "Continuum", status "complete", link https://trentenmuw.github.io/continuum/, a drafted factual description, `ideas: []`, and `reflection: "TODO(Trenten): …"`.
+- My earlier working title ("Strictly speaking, am I still on track?") and its three idea bullets were replaced per the Continuum handoff; they remain in git history.
+- I chose to push it with the `TODO(Trenten)` reflection placeholder for now and fill it in later.
