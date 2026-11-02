@@ -19,18 +19,15 @@ const ARTIFACTS = [
     reflection: "The biggest lesson for me in this project was the value of front loading my design specifications. It was very obvious to me as soon as I started, and I even remember learning in previous classes that starting work before having a completely finished specifications document is bad practice, but I still needed the reminder. I also feel that I got almost too much help from AI in design choices, and would actually like to make a point of sitting down to face those boring decisions myself, or else lose some part of myself to the automation.",
     ideas: []
   },
-  { id: 3, title: "AI Capabilities News Feed", status: "planned", link: "", description: "", reflection: "",
-    ideas: [
-      "Since the last Monday of September I've been more surprised every day by the projects people are completing with AI.",
-      "Scrape common posting sites to see where AI is advancing day to day and week to week.",
-      "Look for useful insights to be gleaned from that information."
-    ] },
-  { id: 4, title: "Tracking People in Power", status: "planned", link: "", description: "", reflection: "",
+  { id: 3, title: "Tracking People in Power", status: "planned", link: "", description: "", reflection: "",
     ideas: [
       "A live tracker of people in power and their stated intentions and stances.",
       "I spend too much time looking up who said what and when, and who met with whom. An AI could scrape and interpret that as well as I can, so why not build something that does?",
       "It's a prickly topic to build on, so I may not prioritize it."
     ] },
+  { id: 4, title: "Scrawdle", status: "planned", link: "https://scrawdle.vercel.app", description: "",
+    reflection: "This week my team came up with the idea of a daily drawing game where a new prompt is generated for a user to draw each day. Kevin has effectively taken the lead and walked us through the process of setting up supabase and vercel. We completed a rough draft of a design document and have started work here: https://scrawdle.vercel.app",
+    ideas: [] },
   { id: 5, title: "Decomp / Recomp Project", status: "planned", link: "", description: "", reflection: "",
     ideas: [
       "Take on one of the decompilation/recompilation projects I've been seeing everywhere, where people turn machine code back into a working copy of a game or an app like Photoshop.",

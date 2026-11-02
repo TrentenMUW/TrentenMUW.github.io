@@ -22,3 +22,7 @@
 - I chose to push it with the `TODO(Trenten)` reflection placeholder for now and fill it in later.
 - Gave Claude my Artifact 2 reflection and asked for minimal changes → it entered it verbatim in card 2. No `TODO(Trenten)` placeholders remain.
 - Asked Claude to update the footer date → "Last updated" now reads Oct 19, 2026.
+
+## Nov 1, 2026: Swap Artifacts 3 and 4, start Scrawdle card (Claude Code)
+- Decided to swap my Artifact 3 and 4 plans → "Tracking People in Power" moved to card 3. The "AI Capabilities News Feed" ideas were removed (still in git history).
+- Card 4 is now "Scrawdle", my team's daily drawing game, still in progress. It links to https://scrawdle.vercel.app and has my reflection entered verbatim. Footer date updated to Nov 1, 2026.
