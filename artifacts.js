@@ -25,9 +25,15 @@ const ARTIFACTS = [
       "I spend too much time looking up who said what and when, and who met with whom. An AI could scrape and interpret that as well as I can, so why not build something that does?",
       "It's a prickly topic to build on, so I may not prioritize it."
     ] },
-  { id: 4, title: "Scrawdle", status: "planned", link: "https://scrawdle.vercel.app", description: "",
+  {
+    id: 4,
+    title: "Scrawdle",
+    status: "complete",
+    link: "https://scrawdle.vercel.app",
+    description: "A team-built daily drawing game: each day a new prompt is generated for players to draw. Built with Supabase and hosted on Vercel.",
     reflection: "This week my team came up with the idea of a daily drawing game where a new prompt is generated for a user to draw each day. Kevin has effectively taken the lead and walked us through the process of setting up supabase and vercel. We completed a rough draft of a design document and have started work here: https://scrawdle.vercel.app",
-    ideas: [] },
+    ideas: []
+  },
   { id: 5, title: "Decomp / Recomp Project", status: "planned", link: "", description: "", reflection: "",
     ideas: [
       "Take on one of the decompilation/recompilation projects I've been seeing everywhere, where people turn machine code back into a working copy of a game or an app like Photoshop.",

@@ -29,3 +29,6 @@
 
 ## Nov 7, 2026: Tagline update (Claude Code)
 - Asked Claude to change the tagline → it now reads "working on artifact 5". Footer date updated to Nov 7, 2026.
+
+## Nov 9, 2026: Mark Artifact 4 (Scrawdle) complete (Claude Code)
+- Asked Claude to show Scrawdle as complete, like the other finished cards → status set to "complete" so it renders as a full-width feature card. Claude drafted a short "What it is" description from my reflection; the reflection itself is unchanged. Footer date updated to Nov 9, 2026.
