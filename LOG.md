@@ -32,3 +32,6 @@
 
 ## Nov 9, 2026: Mark Artifact 4 (Scrawdle) complete (Claude Code)
 - Asked Claude to show Scrawdle as complete, like the other finished cards → status set to "complete" so it renders as a full-width feature card. Claude drafted a short "What it is" description from my reflection; the reflection itself is unchanged. Footer date updated to Nov 9, 2026.
+
+## Nov 17, 2026: Artifact 5 is now TERRA (Claude Code)
+- Gave Claude our Artifact 5 brainstorm doc (GlobeProject) and the project link → card 5 now points to TERRA (https://globe-project-sigma.vercel.app/), with a short description and four idea bullets summarized from the doc. It's still "planned", with no reflection yet. The Decomp/Recomp ideas were removed (still in git history). Footer date updated to Nov 17, 2026.

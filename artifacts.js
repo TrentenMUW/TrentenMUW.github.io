@@ -34,9 +34,13 @@ const ARTIFACTS = [
     reflection: "This week my team came up with the idea of a daily drawing game where a new prompt is generated for a user to draw each day. Kevin has effectively taken the lead and walked us through the process of setting up supabase and vercel. We completed a rough draft of a design document and have started work here: https://scrawdle.vercel.app",
     ideas: []
   },
-  { id: 5, title: "Decomp / Recomp Project", status: "planned", link: "", description: "", reflection: "",
+  { id: 5, title: "TERRA: Interactive Earth Archive", status: "planned", link: "https://globe-project-sigma.vercel.app/",
+    description: "A partner project: an interactive globe, inspired by earth.nullschool.net, layered with current news, historical data and live feeds. A timeline slider sets the globe to any point in history, and clicking a place opens an AI chat about what happened there at that time.",
+    reflection: "",
     ideas: [
-      "Take on one of the decompilation/recompilation projects I've been seeing everywhere, where people turn machine code back into a working copy of a game or an app like Photoshop.",
-      "It looks like a big threat to the status quo, which makes it a valuable niche to learn."
+      "Data layers for weather and geology, ocean currents and depth, population, major events, famous people, contested borders, flights and shipping.",
+      "Animated pathways for specific events, like the spice trade.",
+      "A random time generator that picks a date and place and opens the chat for it.",
+      "Borders that light up and live data on hover, plus the nearest city on click."
     ] }
 ];
