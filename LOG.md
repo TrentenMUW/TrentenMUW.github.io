@@ -35,3 +35,6 @@
 
 ## Nov 17, 2026: Artifact 5 is now TERRA (Claude Code)
 - Gave Claude our Artifact 5 brainstorm doc (GlobeProject) and the project link → card 5 now points to TERRA (https://globe-project-sigma.vercel.app/), with a short description and four idea bullets summarized from the doc. It's still "planned", with no reflection yet. The Decomp/Recomp ideas were removed (still in git history). Footer date updated to Nov 17, 2026.
+
+## Nov 24, 2026: TERRA reflection (Claude Code)
+- Last week's feedback asked for a few sentences on what I worked on and which part is mine, since card 5 only listed ideas. I told Claude what I contributed (features from earth.nullschool.net, plus ideas pulled from Discussion Desk HQ and Google's map services) → it drafted a short reflection from that and added it to card 5. Card 5 stays "planned". Footer date updated to Nov 24, 2026.

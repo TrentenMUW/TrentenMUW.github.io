@@ -36,7 +36,7 @@ const ARTIFACTS = [
   },
   { id: 5, title: "TERRA: Interactive Earth Archive", status: "planned", link: "https://globe-project-sigma.vercel.app/",
     description: "A partner project: an interactive globe, inspired by earth.nullschool.net, layered with current news, historical data and live feeds. A timeline slider sets the globe to any point in history, and clicking a place opens an AI chat about what happened there at that time.",
-    reflection: "",
+    reflection: "My part of TERRA has been research and bringing in features. I contributed features modeled on earth.nullschool.net, the wind-map globe that inspired the project. I also studied how other sites, like Discussion Desk HQ and Google's map services, display information on a globe or map, and pulled ideas from them into how TERRA presents its data layers.",
     ideas: [
       "Data layers for weather and geology, ocean currents and depth, population, major events, famous people, contested borders, flights and shipping.",
       "Animated pathways for specific events, like the spice trade.",
