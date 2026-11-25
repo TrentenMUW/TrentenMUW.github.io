@@ -36,6 +36,19 @@
     const foot = (a.link || a.reflection)
       ? (a.link ? `<div class="foot">${viewBtn(a)}</div>` : "")
       : '<div class="foot"><span class="slot">Link and reflection added when finished</span></div>';
+
+    // In progress (has a reflection): full width like a completed card, but keeps the planned colors.
+    if (a.reflection) return `
+      <article class="card wide">
+        ${top(a)}
+        <h3>${esc(a.title)}</h3>
+        <div class="cols">
+          <div class="stack">${desc ? `<div><p class="label">What it is</p>${desc}</div>` : ""}${ideas}</div>
+          ${refl}
+        </div>
+        ${foot}
+      </article>`;
+
     return `
       <article class="card">
         ${top(a)}
